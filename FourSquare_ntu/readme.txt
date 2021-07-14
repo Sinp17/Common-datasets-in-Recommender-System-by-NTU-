@@ -1,0 +1,5 @@
+上边是NTU处理的FourSquare数据集
+其中data_size是 数据集大小
+checkin不太清楚
+poi_coos是经度和纬度
+train/test/tune应该是主要用到的部分
