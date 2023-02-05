@@ -9,7 +9,7 @@ The datasets were originally from : http://spatialkeyword.sce.ntu.edu.sg/eval-vl
 
 For some unknown reasons, this web site is currently unable to handle any HTTP request. I downloaded datasets personally last year and use them frequently in my daily exps. So I collected these datasets here for anyone needs them :)  
 
-If any concerned copyright was infringed, pls feel free to contact me through GitHub or directly e-mail me to 953875814@qq.com. I will handle it at very first time.  
+If any concerned copyright was infringed, pls feel free to contact me through GitHub or e-mail me.
 
 ## Dataset description
 
